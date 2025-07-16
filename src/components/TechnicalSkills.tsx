@@ -1,5 +1,4 @@
-import React from 'react';
-import { Code, Building, Target, Star } from 'lucide-react';
+import { Building, Code, Star, Target } from 'lucide-react';
 import { technicalSkills } from '../data/portfolioData';
 
 const TechnicalSkills = () => {

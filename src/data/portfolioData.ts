@@ -1,3 +1,4 @@
+// ✅ Technical Skills
 export const technicalSkills = {
   languages: ['Python', 'Java', 'JavaScript', 'SQL', 'HTML5', 'CSS3'],
   frameworks: ['React.js', 'Node.js', 'Next.js', 'Flutter', 'Express.js'],
@@ -5,6 +6,7 @@ export const technicalSkills = {
   concepts: ['Full-Stack Development', 'Machine Learning', 'Cloud Computing', 'Mobile Development']
 };
 
+// ✅ Projects
 export const projects = [
   {
     title: 'CareerForge',
@@ -44,7 +46,17 @@ export const projects = [
   }
 ];
 
+// ✅ Experiences
 export const experiences = [
+  {
+    title: 'HR Intern',
+    company: 'BigBulls',
+    type: 'Internship',
+    duration: '21-07-2025 to 21-11-2025',
+    description: 'Handling HR operations, recruitment, and workflow management using Monday.com & ClickUp',
+    skills: ['HR Management', 'Recruitment', 'Google Sheets Automation', 'Workflow Analysis'],
+    certificateUrl: 'https://drive.google.com/file/d/1hZmcOAfEnIoPKbG01xBvGiqMpIrE0nEC/view?usp=sharing'
+  },
   {
     title: 'AI & Machine Learning Intern',
     company: 'Google',
@@ -57,7 +69,7 @@ export const experiences = [
   {
     title: 'Cloud Generative AI Intern',
     company: 'Google Cloud',
-    type: 'Virtual Internship', 
+    type: 'Virtual Internship',
     duration: '2024',
     description: 'Built cloud-native AI applications using Google Cloud services',
     skills: ['Google Cloud', 'AI/ML', 'Cloud Architecture', 'APIs'],
@@ -92,6 +104,7 @@ export const experiences = [
   }
 ];
 
+// ✅ Achievements
 export const achievements = [
   {
     title: 'Academics Council Head',
@@ -113,6 +126,7 @@ export const achievements = [
   }
 ];
 
+// ✅ Certifications
 export const certifications = [
   { name: 'Python for AI', issuer: 'IBM', year: '2024', url: 'https://courses.edx.org/certificates/f34a79c9fdca48cca19691f555c76957' },
   { name: 'Backend Development with Node.js & Express', issuer: 'Coursera', year: '2024', url: 'https://courses.edx.org/certificates/f34a79c9fdca48cca19691f555c76957' },
