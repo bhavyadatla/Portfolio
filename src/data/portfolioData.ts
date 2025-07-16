@@ -52,7 +52,7 @@ export const experiences = [
     title: 'HR Intern',
     company: 'BigBulls',
     type: 'Internship',
-    duration: '21-07-2025 to 21-11-2025',
+    duration: '21-07-2025 to Present',
     description: 'Handling HR operations, recruitment, and workflow management using Monday.com & ClickUp',
     skills: ['HR Management', 'Recruitment', 'Google Sheets Automation', 'Workflow Analysis'],
     certificateUrl: 'https://drive.google.com/file/d/1hZmcOAfEnIoPKbG01xBvGiqMpIrE0nEC/view?usp=sharing'
